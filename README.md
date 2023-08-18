@@ -1,5 +1,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 👋 Hi, I’m @Priyanshukapil001
+
 - 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **ReactJs, Java, DSA, MERN Stack Development**
